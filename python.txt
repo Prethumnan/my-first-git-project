@@ -1,3 +1,5 @@
 this is a sample text
 
 doing some modification from the bug fix branch
+
+doing some updates from the feature branch
