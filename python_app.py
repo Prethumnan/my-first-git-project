@@ -6,4 +6,4 @@ def home():
     return "Hello Prethumnan!"
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000) #Adding some comments
+    app.run(host="0.0.0.0", port=5000)
